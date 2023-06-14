@@ -10,7 +10,8 @@ W tym repo, postaram się przybliżyć prosty schemat na termometr, jak i zaprez
   -Sensor temperatury TMP36 <br />
   -Arduino IDE (Do zamieszczenia kodu) <br />
 # Asemblaż
-Asemblaż, nagrany przeze mnie, można znaleźć pod tym linkiem: https://www.youtube.com/watch?v=A6GCf6XGyAs
+Asemblaż, nagrany przeze mnie, można znaleźć pod tym linkiem: https://www.youtube.com/watch?v=A6GCf6XGyAs <br/>
+Po skończonym składaniu, należy odpalić program Arduino IDE, wybrać płytkę Arduino, z którą ma się do czynienia, wkleić [kod]([https://www.google.com](https://github.com/Snowyy4K/projekt_arduino/blob/main/kod)) oraz przesłać go do płytki korzystając z guzika Upload.
 # Przykładowe zdjęcie działającego termometra w symulatorze
 ![ewewewew](https://github.com/Snowyy4K/projekt_arduino/assets/44754701/3138d1f8-c6c6-4836-a00f-824aedb76d83)
 # Jak to działa?

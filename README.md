@@ -9,6 +9,6 @@ W tym repo, postaram się przybliżyć prosty schemat na termometr, jak i zaprez
   -Wyświetlacz LCD 16x2
   -Sensor temperatury TMP36
   -Arduino IDE (Do zamieszczenia kodu)
-#Asemblaż
+# Asemblaż
 Asemblaż, nagrany przeze mnie, można znaleźć pod tym linkiem: https://www.youtube.com/watch?v=A6GCf6XGyAs
  

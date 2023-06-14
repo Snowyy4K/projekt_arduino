@@ -1,2 +1,3 @@
-# projekt_arduino
-Prosty projekt termometra
+# Prosty projekt Arduino termometra
+
+

@@ -1,4 +1,4 @@
-![fajny_termometr (1)](https://github.com/Snowyy4K/projekt_arduino/assets/44754701/99b70ea0-27fd-4c89-8a5e-14319934c6aa)
+![fajny_termometr](https://github.com/Snowyy4K/projekt_arduino/assets/44754701/ee4df606-23dc-43f4-bb44-65d16f6d8e7d) <br />
 W tym repo, postaram się przybliżyć prosty schemat na termometr, jak i zaprezentuję jego asemblaż
 # Potrzebne komponenty:
   -Płytka Arduino <br />

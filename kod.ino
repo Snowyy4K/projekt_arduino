@@ -7,8 +7,8 @@ void setup(){
 }
 
 void loop(){
-	value = analogRead(tmp)*0.004882814;
-	value = (value - 0.5) * 100.0;
+	value = analogRead(tmp)*0.004882814*100;
+	//value = (value - 0.5) * 100.0;
 	lcd.setCursor(0,1);
 	lcd.print("Tmp:");
 	lcd.print(value);
